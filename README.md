@@ -5,8 +5,11 @@ Realized by winapi.
 
 # Limits
 Currently work only for windows 32 bit applications.
-The selected dll is written in the code, still dont have an option in UI to let the user choose the dll to inject.
-Didn't care the vulnerabilities. and the attached MemoryView.dll still not finished.
+The selected dll is written in the code, still dont have the option to let the user choose the dll to inject in the GUI.
+Didn't take care the vulnerabilities.
+
+# Note
+The EasyDLLInjector.exe and MemoryView.dll must be in the same folder.
 
 # Licence
-Do whatever you want with those code files, but I wish you would send me a message if my code was helpful to you so i can brag a little.
+Do whatever you want.
